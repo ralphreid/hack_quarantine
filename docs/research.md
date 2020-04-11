@@ -13,6 +13,7 @@
 
 
 ## References:
+1. https://www.freecodecamp.org/news/building-jamstack-apps/
 
 ## Epic:
 1. Lines are getting long and unhealthy. Safe lines helps you help others while being a good citizen (using public spaces likes parks, shopping for essentials and voting)
