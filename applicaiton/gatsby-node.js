@@ -4,4 +4,17 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-// You can delete this file if you're not using it
+ module.exports = {
+   plugins: [
+     {
+       resolve: `gatsby-plugin-create-client-paths`,
+       options: { prefixes: [`/app/*`] },
+     },
+     {
+       resolve: `gatsby-plugin-netlify-identity`,
+       options: {
+         url: "https://healthy-queues.netlify.com",
+       },
+     },
+   ],
+ }
