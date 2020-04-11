@@ -1,0 +1,10 @@
+{
+  "config_version": 1,
+  "mirrors": {
+    "app": {
+      "url": "https://github.com/gatsbyjs/gatsby-starter-default.git",
+      "branch": "master",
+      "revision": "733ee1703a95b9b66c8288c72913490160223d45"
+    }
+  }
+}
